@@ -1,0 +1,198 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/templates/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+body {
+    padding-top: 43px;
+}
+
+#Bibliotheque {
+    margin-left: 10px;
+}
+
+#Favoris {
+    margin-left: 10px;
+}
+
+#AddBook {
+    margin-bottom: 10%;
+}
+
+.livre {
+    height: 100px;
+    background: url(../img/book.png) no-repeat;
+    background-size: contain;
+    background-position: center;
+    font-size: x-small;
+    padding-right: 6%;
+    padding-left: 9%;
+}
+
+.titre {
+    padding-top: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+
+.G-titre {
+    padding-top: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-align: center;
+}
+
+.texte {
+    text-align: justify;
+    font-size: small;
+    white-space: break-spaces;
+}
+
+#content span {
+    background-color: #FF9;
+    color: #555;
+}
+
+.dot {
+    width: 10px;
+    height: 10px;
+    border-color: rgb(102, 102, 102);
+    border-radius: 50%;
+    background-color: rgb(102, 102, 102);
+}
+
+.vertical-dot-nav {
+    background-color: rgb(255, 255, 255)
+}
+
+ul {
+    top: 40%;
+    background-color: rgb(102, 102, 102);
+    left: auto;
+    right: 0px;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+
+li {
+    text-align: center;
+}
+
+#navbarResponsive {
+    margin-top: 10px;
+}
+
+.page-header {
+    height: 56px;
+}
+
+section {
+    margin-bottom: 5%;
+}
+
+hr {
+    margin-top: 0rem;
+}
+
+#trash {
+    width: 40px;
+    height: 40px;
+    background: url(../img/trash.png)no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+#star {
+    width: 40px;
+    height: 40px;
+    background: url(../img/star.png)no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+#dots {
+    width: 30px;
+    height: 30px;
+    background: url(../img/dots.png)no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.trash {
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 40px;
+    height: 40px;
+    margin-top: 10%;
+    background: #b30a0a;
+    border-radius: 50%;
+}
+
+.star {
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 40px;
+    height: 40px;
+    margin-top: 10%;
+    background: #ffef16;
+    border-radius: 50%;
+}
+
+.handle {
+    position: absolute;
+    top: 35%;
+    left: 15%;
+    width: 15px;
+    height: 25px;
+    background: url(../img/dots.png)no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+#read {
+    background: url(../img/page.png);
+    background-size: contain;
+    background-position: center;
+}
+
+#biblio {
+    background: url(../img/biblio.png);
+    background-size: contain;
+    background-position: center;
+    margin-bottom: 39.5%;
+}
+
+.icons {
+    display: inline-flex;
+    margin-top: 5%;
+}
+
+.panneau {
+    background: url(../img/texture_bois.png);
+    background-size: contain;
+    background-position: center;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+
+#dotbar {
+    bottom: 15px;
+}
+
+#logo {
+    width: 40px;
+    height: 40px;
+}
+
+#favo {
+    height: fit-content;
+    background-color: rgb(216, 216, 65);
+    border-radius: 5px;
+}
+
+.attention {
+    color: #8a0d0d;
+}
